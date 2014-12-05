@@ -1,0 +1,4 @@
+monster
+Luster Dragon
+1900
+1600

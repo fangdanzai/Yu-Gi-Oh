@@ -1,0 +1,4 @@
+monster
+Dark Magician
+2500
+2000
